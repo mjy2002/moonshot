@@ -17,7 +17,7 @@ Specification:
 * Top mount battery, but underslung is also supported.
 * 15-30mm standoff depending on component as and stack
 * Supports bracket mount of RunCam Swift Mini(tight), also supports most HS1177 cameras with 3D printed bucket.
-* 3-4s bettery 450-950mah. XT30 connection recommended, but JST works great is installed properly.
+* 3-4s battery 450-950mah. XT30 connection recommended, but JST works great is installed properly.
 * Small rx recommended like XM+
 
 ### Target Pilot
